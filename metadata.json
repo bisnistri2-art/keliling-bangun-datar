@@ -1,0 +1,6 @@
+{
+  "name": "KelilingLab — MPI Keliling Bangun Datar",
+  "description": "Media Pembelajaran Interaktif (MPI) keliling bangun datar persegi, persegi panjang, dan segitiga lengkap dengan simulasi interaktif, asesmen, papan skor, dan sistem reward peserta didik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
